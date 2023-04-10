@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.clearcart{
+    position: relative;
+    left: 92%;
+    
+  }
+  .continue{
+    position: relative;
+    left: 45%;
+    right: 55%;
+  }
